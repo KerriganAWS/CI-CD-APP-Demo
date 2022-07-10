@@ -5,12 +5,12 @@ batch:
     - identifier: build1
       env:
         variables:
-          GOOS: darwint
+          GOOS: darwin
           GOARCH: amd64
     - identifier: build2
       env:
         variables:
-          GOOS: darwint
+          GOOS: darwin
           GOARCH: arm64
 
 phases:
