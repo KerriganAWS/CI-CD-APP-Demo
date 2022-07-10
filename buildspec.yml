@@ -1,5 +1,18 @@
 version: 0.2
 
+batch:
+  build-list:
+    - identifier: build1
+      env:
+        variables:
+          GOOS: darwin
+          GOARCH: amd64
+    - identifier: build2
+      env:
+        variables:
+          GOOS: darwin
+          GOARCH: arm64
+
 phases:
   install:
     runtime-versions:
