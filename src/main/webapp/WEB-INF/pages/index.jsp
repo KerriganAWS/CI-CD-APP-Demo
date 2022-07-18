@@ -26,7 +26,7 @@
             <div class="container theme-showcase" role="main">
               <div class="jumbotron">
                 <h1>A Sample web application:</h1>
-                <p><i>Why Kerrigan can't application deployment be soooooo easy?</i></p>
+                <p><i>Why Kerrigan can application deployment be soooooo easy?</i></p>
               </div>
               <div class="page-header">
                 <h1>Our Products</h1>
